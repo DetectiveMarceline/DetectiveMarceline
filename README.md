@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi, I'm Maedeh 👋
 
-<!--
-**DetectiveMarceline/DetectiveMarceline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DevOps Engineer & Systems Administrator** with a focus on cloud infrastructure, 
+container security, and CI/CD automation.
 
-Here are some ideas to get you started:
+ **What I do professionally:**
+- Kubernetes cluster management (RKE2, EKS, Rancher)
+- CI/CD pipeline design (Jenkins, GitLab CI, ArgoCD)
+- Container vulnerability management (Trivy, Harbor)
+- Linux server administration & security hardening
+- Policy enforcement with OPA Gatekeeper
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**Currently studying:**
+- MSc coursework in Artificial Intelligence & Machine Learning
+- Research focus: applying ML to DevSecOps workflows
+
+> Most of my professional work is under NDA — what you'll find here 
+> is my academic and personal project work.
 -->
