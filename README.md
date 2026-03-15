@@ -16,4 +16,4 @@ container security, and CI/CD automation.
 
 > Most of my professional work is under NDA — what you'll find here 
 > is my academic and personal project work.
--->
+
